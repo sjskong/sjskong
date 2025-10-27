@@ -1,7 +1,7 @@
 ## hi :p
 ```diff
-@@                            hmu if you be consuming whimsical life-changing media n shii                           @@
-@@                                          (or if you are tech company :))                                          @@
+@@                       hmu if you be consuming whimsical life-changing media n shii                      @@
+@@                                     (or if you are tech company :))                                     @@
 ```
 
 <!--
