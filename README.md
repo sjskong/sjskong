@@ -1,7 +1,7 @@
 ## hi :p
 ```diff
-@@ hmu if you play celeste, stardew valley, terraria, persona, or disco elysium @@
-@@ (or if you are a big tech company looking to hire an intern :))              @@
+@@                            hmu if you be consuming whimsical life-changing media n shii                           @@
+@@                                          (or if you are tech company :))                                          @@
 ```
 
 <!--
