@@ -1,8 +1,4 @@
 ## hi :p
-```diff
-@@                       hmu if you be consuming whimsical life-changing media n shii                      @@
-@@                                     (or if you are tech company :))                                     @@
-```
 
 <!--
 - 🔭 I’m currently working on ...
